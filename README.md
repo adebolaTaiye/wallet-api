@@ -16,3 +16,5 @@ Steps
 5) create the variable in your .env file *PAYSTACK_SECRET_TOKEN* which should store your paystack secret key which would be accessed during wallet funding and payment verification
 6) run the tests with the command *php artisan test*
 7) start your server with *php artisan serve*
+
+This is the link to the documentation *https://documenter.getpostman.com/view/20444114/2sAYBXCrhe*
